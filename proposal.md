@@ -46,9 +46,8 @@ Now that we have acqiuired this data, we will need to analyze it and develop a p
 
 1. EDA - see what data variables are missing, which could have errors
 2. Clean the data into a format we want - in the testing we've done so far, a lot of the rows have elements that look like this: BOS -1600 or like this: O 216.5. These elements should probably be split into two different columns to make the analysis easier and cleaner.
-3. Run regression analyses - to give one particular example, compare odds that the Boston Celtic's win against their actual winning record.
-4. Continue running these regressions searching for high correlations
-5. Create hypothetical returns or portfolios - i.e. if you put 100 dollars into a season long portfolio of the Celtic's winning, how would you have performed
+3. Run regression analyses - to give one particular example, compare odds that the Boston Celtic's win against their actual winning record. Continue to run these regressions searching for high correlations.
+5. Create hypothetical returns or portfolios - i.e. if you put 100 dollars into a season long portfolio of the Celtic's winning, how would you have performed. Find which subset of data yields the highest returns.
 6. (maybe) create a prediction for future seasons based on these models
 
 
