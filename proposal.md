@@ -30,12 +30,18 @@ In order to accomplish this problem and have a successful result for our researc
 7. ADD MORE VARIABLES
 
 Observations: Each of the 30 NBA teams and each of their respective props
+
 Sample Period: This NBA season (2023-2024)???
+
 Restrictions: Obtaining this data is very difficult as it is not made publicly available by the sports books.
+
 Necessary Variables: These are listed above.
-Variables we'd like:
-How we plan to collect more data:
-Storage plan for how we will store data and files within the repository:
+
+Variables we'd like: We would like to be able to eventually expand this project and be able to look at player props as well as those for the teams, but finding scrapable data may be very difficult. It would also be nice to see how our findings from this years data set compare to the stats from previous seasons, but yet again this could be very difficult to find the data.
+
+How we plan to collect more data: We plan to continue searching through as many websites as we can find with usable data and scrape all of the relevant information we can. Like mentioned above, this could prove to be rather difficult as this information isn't made public by the various sports books.
+
+Storage plan for how we will store data and files within the repository: NOT DONE!!
 
 
 ## Methodology
@@ -50,4 +56,4 @@ Now that we have acqiuired this data, we will need to analyze it and develop a p
 
 ## Financial Application
 
-
+This project has various financial applications, especially pertaining to this course as it will require a lot of EDA to sort through all of this data and use it to optimize our decisions. We also have to then take our results and weigh the risks with the potential benefits to see if we have actually found anything feasible. 
