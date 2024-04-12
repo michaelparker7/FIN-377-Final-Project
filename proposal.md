@@ -7,12 +7,12 @@ Through this research, our goal is to determine whether or not there are teams i
 ## Necessary Data
 In order to accomplish this problem and have a successful result for our research we will need to obtain several variables for use in our analysis. These variables currently include but are not limited to:
 
-1.) Moneyline 
-2.) Spread
-3.) Total Points
-4.) Success Rates for each of these variables
-5.) Winnings from each of these variables
-6.) Any other variables we find that may improve profitability through a subset
+1. Moneyline 
+2. Spread
+3. Total Points
+4. Success Rates for each of these variables
+5. Winnings from each of these variables
+6. Any other variables we find that may improve profitability through a subset
   - Home vs. Away
   - Win Streak
   - Record in Last 10 games
