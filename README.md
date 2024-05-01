@@ -10,7 +10,7 @@ https://brandon4106.github.io/Fin_377_Swish_Insights
 1. runboxscores.ipynb
 2. getstatsfromboxscore.ipynb
 
-### The code used for the exploration and analysis of the data is found:
+### Code used for exploration, analysis, and modeling:
 
 1. CreatingModels.ipynb
 
