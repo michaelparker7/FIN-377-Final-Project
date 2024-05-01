@@ -12,13 +12,13 @@ This is located in runboxscores.ipynb
 ### Links to sources we used to obtain data:
 
 1. https://www.actionnetwork.com/nba/odds/boston-celtics
-2.
+2. https://www.basketball-reference.com/boxscores/
 3.
 
 
 ### The code used for the exploration and analysis of the data is found:
 
-1. Scrap.ipynb
+1. CreatingModels.ipynb
 2. 
 
 
