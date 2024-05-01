@@ -26,7 +26,7 @@ In setting up a machine learning pipeline, it is necessary to establish your X a
 
 1. https://www.actionnetwork.com/nba/odds/boston-celtics
 2. https://www.basketball-reference.com/boxscores/
-3. 
+
 ### Link to the slideshow presentation:
 https://docs.google.com/presentation/d/1yIrZOARtgEcDt4hhq3I2KpJM72dGAiEVx83RGe7Qf4g/edit#slide=id.g2d13450eb15_1_452
 
